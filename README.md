@@ -1,5 +1,8 @@
 The  D-BouncR is a 6-channel button debouncing board.
 
+![Front PCB Render](https://github.com/mikepkes/DBouncR/blob/main/doc/images/front.png?raw=true)
+![Back PCB Render](https://github.com/mikepkes/DBouncR/blob/main/doc/images/back.png?raw=true)
+
 This board features:
 
 * Independent Hardware Debouncing for up to 6 Buttons
